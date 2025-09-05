@@ -1,6 +1,6 @@
 # Programming-Portfolio-ADPP
 
-This repository showcases programming assignments completed during the ADPP course at CIC Center in C, C++, and Python.
+This repository showcases programming assignments completed during the ADPP course at CSC Center in C, C++, and Python.
 
 ## C
 - Pay Slip Generator for employee details
